@@ -1,0 +1,11 @@
+url=<url>
+Email=<email>
+Username=<username>
+Firstname=<firstname>
+Lastname=<lastname>
+Password=<password>
+Databaseuser=pterodactyl
+database=panel
+databaseip=127.0.0.1
+databasepassword=<mysqlpassword>
+
